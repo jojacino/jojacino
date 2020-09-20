@@ -8,10 +8,13 @@ I have some projects for view here on GitHub and plan to start using GitHub more
 #####
 #### Please feel free to have a look around and contact me if you would like to speak.
 
-![](https://i.ibb.co/bgFz0ff/jojacinofb.jpg)
+
+![Joseph Davidson Resume](https://i.ibb.co/vhwP42X/Joseph-MDavidson-Resume.jpg)
+
 ___________________________________________________________
 
-![](https://i.ibb.co/QHwVxBP/WIN-20200920-14-38-54-Pro.jpg)
+![](https://i.ibb.co/bgFz0ff/jojacinofb.jpg)
+___________________________________________________________
 
 
 <!--
