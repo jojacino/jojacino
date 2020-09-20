@@ -1,6 +1,6 @@
 ## ⚡ WELCOME! ⚡
 
-###   My name is Joseph Davidson, aka Jojacino, aka #|
+###   My name is Joseph Davidson, aka Jojacino
 #####
    I am a JavaScript specialist, a full-stack WAMP developer, and a full-stack MERN developer
 Currently I am writing applications and websites using React and Redux.
