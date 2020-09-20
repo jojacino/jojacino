@@ -14,9 +14,6 @@ ___________________________________________________________
 ___________________________________________________________
 
 
-
-![Joseph Davidson Resume](https://i.ibb.co/vhwP42X/Joseph-MDavidson-Resume.jpg)
-
 <!--
 **jojacino/jojacino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
