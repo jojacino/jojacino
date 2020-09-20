@@ -8,14 +8,14 @@ I have some projects for view here on GitHub and plan to start using GitHub more
 #####
 #### Please feel free to have a look around and contact me if you would like to speak.
 
-
-![Joseph Davidson Resume](https://i.ibb.co/vhwP42X/Joseph-MDavidson-Resume.jpg)
-
 ___________________________________________________________
 
 ![](https://i.ibb.co/bgFz0ff/jojacinofb.jpg)
 ___________________________________________________________
 
+
+
+![Joseph Davidson Resume](https://i.ibb.co/vhwP42X/Joseph-MDavidson-Resume.jpg)
 
 <!--
 **jojacino/jojacino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
