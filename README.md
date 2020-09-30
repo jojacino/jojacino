@@ -1,5 +1,6 @@
 ## ⚡ WELCOME! ⚡
 
+![](https://i.ibb.co/2Msd2kf/fish.png)
 ###   My name is Joseph Davidson, aka Jojacino
 #####
    I am a JavaScript specialist, a full-stack WAMP developer, and a full-stack MERN developer
