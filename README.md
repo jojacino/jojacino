@@ -10,8 +10,6 @@ I have some projects for view here on GitHub and plan to start using GitHub more
 #### Please feel free to have a look around and contact me if you would like to speak.
 
 ___________________________________________________________
-
-![](https://i.ibb.co/bgFz0ff/jojacinofb.jpg)
 ___________________________________________________________
 
 
